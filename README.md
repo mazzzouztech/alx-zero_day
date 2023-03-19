@@ -1,2 +1,2 @@
 My first readme
-i am editing my read me file 
+How to be up to date in git
